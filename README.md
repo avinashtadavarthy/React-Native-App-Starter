@@ -77,14 +77,3 @@ export default class App extends React.Component {
   }
 }
 ```
-
-## 3. Setting up a git connection to the project
-
-1. Make a .gitignore file in the root directory of the project
-
-```
-hyperlink to file
-```
-
-2. git init in project directory
-
